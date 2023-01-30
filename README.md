@@ -1,2 +1,2 @@
 # mitch-unhinged
-i'm not a webdev ;-;
+i suck at webdev ;-;
